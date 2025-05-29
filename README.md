@@ -78,3 +78,11 @@ Im Folgenden wurden zwei unterschiedliche Branches erstellt, zwischen ihnen gewe
 
 ![Branches zusammengeführt](git-merge.png)
 
+
+
+Zum Schluss wurde ein Pull-Request mit witzigen Sprüchen direkt über GitHub erstellt.
+
+
+![Pull-Reqeust über GitHub erstellt](gitHub.PNG)
+
+[Hier gehts direkt zum Pull Reqeust](https://github.com/edlich/education/pull/541)
